@@ -1,0 +1,15 @@
+{
+  "Name": "Bentley Restaurant Photo Mode",
+  "Author": "Bentley Playz",
+  "Version": "1.0.0",
+  "Description": "Separate, optional promo-screenshot tool: temporarily stages 12 vanilla villagers inside Bentley's Restaurant. Two console commands: bentley_photo_start and bentley_photo_stop.",
+  "UniqueID": "BentleyPlayz.BentleyRestaurantPhotoMode",
+  "EntryDll": "BentleyRestaurantPhotoMode.dll",
+  "MinimumApiVersion": "4.0.0",
+  "Dependencies": [
+    {
+      "UniqueID": "BentleyPlayz.FastFoodUsefulStuff",
+      "IsRequired": false
+    }
+  ]
+}
